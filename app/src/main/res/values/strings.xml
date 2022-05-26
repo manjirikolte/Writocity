@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">WritocityApplication</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="writocity">Writocity</string>
+    <string name="hello">Hello !</string>
+    <string name="best_place_to_write">Best place to write</string>
+    <string name="signup">Signup</string>
+    <string name="full_name">Full Name</string>
+    <string name="bio">Bio</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="g">G</string>
+    <string name="f">f</string>
+    <string name="social_media_login">Social Media Login</string>
+    <string name="or">or</string>
+    <string name="enter_bio">Enter Bio</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="twitter">twitter</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="hii">Hii!</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="enter_e_mail">Enter E-mail</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="welcome">Welcome!</string>
+    <string name="back_arrow">back arrow</string>
+</resources>

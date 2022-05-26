@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/border_button_style.xml" value="0.23981481481481481" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/circle_background.xml" value="0.23981481481481481" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/edit_text_border.xml" value="0.14010416666666667" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/gradient_button_style.xml" value="0.14010416666666667" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.14010416666666667" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.24537037037037038" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.14010416666666667" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/ic_baseline_mic_24.xml" value="0.23981481481481481" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/ic_baseline_pause_circle_filled_24.xml" value="0.21574074074074073" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/ic_baseline_play_circle_filled_24.xml" value="0.14010416666666667" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.23981481481481481" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/ic_menu_vector.xml" value="0.159375" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/ic_outline_add_photo_alternate_24.xml" value="0.159375" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/ic_outline_mode_comment_24.xml" value="0.14010416666666667" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/drawable/secondary_button_style.xml" value="0.23981481481481481" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_apply_theme.xml" value="0.17300724637681159" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_commets.xml" value="0.1838768115942029" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_cropper.xml" value="0.21240942028985507" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_edit_profile.xml" value="0.11979166666666667" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_follow_profile.xml" value="0.19202898550724637" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_forgot_password.xml" value="0.11979166666666667" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_home.xml" value="0.21240942028985507" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_login.xml" value="0.2164855072463768" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_main.xml" value="0.1390625" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_reset_password.xml" value="0.1390625" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_setting_menu.xml" value="0.1390625" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/activity_signup.xml" value="0.21240942028985507" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/fragment_comment.xml" value="0.1838768115942029" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/fragment_follow_user.xml" value="0.19202898550724637" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/fragment_full_postview.xml" value="0.22056159420289856" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/fragment_home.xml" value="0.31314878892733566" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/fragment_search.xml" value="0.22056159420289856" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/fragment_user_profile.xml" value="0.22056159420289856" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/fragment_user_profile_view.xml" value="0.22056159420289856" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/fragment_write.xml" value="0.264" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/single_comment_view.xml" value="0.176" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/layout/single_row_post.xml" value="0.264" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20925925925925926" />
+        <entry key="..\:/IMP versions/WritocityApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20925925925925926" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/drawable/gradient_button_style.xml" value="0.15833333333333333" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.23055555555555557" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/drawable/ic_hamburger_menu.xml" value="0.21666666666666667" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/activity_cropper.xml" value="0.2164855072463768" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/activity_edit_profile.xml" value="0.2328125" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/activity_forgot_password.xml" value="0.19610507246376813" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/activity_home.xml" value="0.17798913043478262" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/activity_login.xml" value="0.17798913043478262" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/activity_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/activity_reset_password.xml" value="0.2164855072463768" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/activity_setting.xml" value="0.17798913043478262" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/activity_setting_menu.xml" value="0.2246376811594203" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/activity_signup.xml" value="0.17798913043478262" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/fragment_full_post_view.xml" value="0.17798913043478262" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/fragment_full_postview.xml" value="0.17391304347826086" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/fragment_home.xml" value="0.17798913043478262" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/fragment_search.xml" value="0.17798913043478262" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/fragment_user_profile.xml" value="0.17798913043478262" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/fragment_user_profile_view.xml" value="0.20380434782608695" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/fragment_write.xml" value="0.17798913043478262" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/layout/single_row_post.xml" value="0.2" />
+        <entry key="..\:/WritocityApplication/app/src/main/res/menu/navigation_drawer_menu.xml" value="0.2328125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
